@@ -1,0 +1,50 @@
+2026-10-31 19:15:47 | INFO    | === Customer sales data cleaning started ===
+2026-10-31 19:15:47 | INFO    | Loaded 500 rows x 11 columns from raw_sales_data.csv
+2026-10-31 19:15:47 | INFO    | Missing values in raw data:
+        Column  Missing (Raw)  Missing % (Raw)
+      order_id              7            0.014
+    order_date             10            0.020
+ customer_name             25            0.050
+customer_email             21            0.042
+         phone             13            0.026
+      quantity             10            0.020
+    unit_price              6            0.012
+          city              7            0.014
+2026-10-31 19:15:47 | INFO    | [Whitespace] Leading/trailing or repeated spaces: 217 row(s) -> Trimmed and collapsed to single spaces
+2026-10-31 19:15:47 | INFO    | [Standardise] Order IDs in lowercase: 38 row(s) -> Converted to uppercase (e.g. ORD-10001)
+2026-10-31 19:15:47 | INFO    | [Standardise] Customer names with incorrect capitalisation: 91 row(s) -> Converted to Title Case
+2026-10-31 19:15:47 | INFO    | [Standardise] Inconsistent capitalisation in 'product': 57 row(s) -> Mapped to the most common spelling
+2026-10-31 19:15:47 | INFO    | [Standardise] Inconsistent capitalisation in 'category': 37 row(s) -> Mapped to the most common spelling
+2026-10-31 19:15:47 | INFO    | [Standardise] Inconsistent capitalisation in 'city': 92 row(s) -> Mapped to the most common spelling
+2026-10-31 19:15:47 | INFO    | [Standardise] State codes in lowercase: 73 row(s) -> Converted to uppercase
+2026-10-31 19:15:47 | INFO    | [Email] Uppercase letters or spaces in email: 61 row(s) -> Lowercased and removed spaces
+2026-10-31 19:15:47 | INFO    | [Email] Missing email: 21 row(s) -> Kept row, flagged in Data Notes
+2026-10-31 19:15:47 | INFO    | [Email] Invalid email format (e.g. missing @ or domain): 24 row(s) -> Removed invalid value, kept row, flagged in Data Notes
+2026-10-31 19:15:47 | INFO    | [Phone] Phone numbers in mixed formats: 416 row(s) -> Normalised to (XXX) XXX-XXXX
+2026-10-31 19:15:47 | INFO    | [Phone] Missing phone: 13 row(s) -> Kept row, flagged in Data Notes
+2026-10-31 19:15:47 | INFO    | [Phone] Invalid phone (wrong number of digits): 6 row(s) -> Removed invalid value, kept row, flagged in Data Notes
+2026-10-31 19:15:47 | INFO    | [Dates] Dates not in YYYY-MM-DD format: 404 row(s) -> Parsed 6 known formats into one date format
+2026-10-31 19:15:47 | INFO    | [Dates] Missing order date: 10 row(s) -> Rejected (date is required)
+2026-10-31 19:15:47 | INFO    | [Dates] Unparseable/impossible date (e.g. 2025-13-45): 12 row(s) -> Rejected (date is required)
+2026-10-31 19:15:47 | INFO    | [Quantity] Whole-number quantity written as decimal (e.g. '2.0'): 25 row(s) -> Converted to integer
+2026-10-31 19:15:47 | INFO    | [Quantity] Missing quantity: 10 row(s) -> Rejected
+2026-10-31 19:15:47 | INFO    | [Quantity] Non-numeric quantity: 3 row(s) -> Rejected
+2026-10-31 19:15:47 | INFO    | [Quantity] Quantity zero, negative or above 1000: 12 row(s) -> Rejected
+2026-10-31 19:15:47 | INFO    | [Quantity] Fractional quantity: 0 row(s) -> Rejected
+2026-10-31 19:15:47 | INFO    | [Price] Price stored as text with '$' or ',': 46 row(s) -> Removed symbols and converted to number
+2026-10-31 19:15:47 | INFO    | [Price] Missing unit price: 6 row(s) -> Rejected
+2026-10-31 19:15:47 | INFO    | [Price] Non-numeric unit price: 8 row(s) -> Rejected
+2026-10-31 19:15:47 | INFO    | [Price] Zero or negative unit price: 11 row(s) -> Rejected
+2026-10-31 19:15:47 | INFO    | [Price] Unit price above $10,000 (likely typo): 4 row(s) -> Rejected
+2026-10-31 19:15:47 | INFO    | [Missing data] Missing order ID: 7 row(s) -> Rejected (field is required)
+2026-10-31 19:15:47 | INFO    | [Missing data] Missing product: 0 row(s) -> Rejected (field is required)
+2026-10-31 19:15:47 | INFO    | [Missing data] Missing customer name: 25 row(s) -> Filled with 'Unknown Customer', flagged in Data Notes
+2026-10-31 19:15:47 | INFO    | [Missing data] Missing city: 7 row(s) -> Filled with 'Unknown', flagged in Data Notes
+2026-10-31 19:15:47 | INFO    | [Duplicates] Exact or near-duplicate records: 30 row(s) -> Removed (first occurrence kept)
+2026-10-31 19:15:47 | INFO    | [Duplicates] Same order ID with different details: 0 row(s) -> Rejected (needs manual review)
+2026-10-31 19:15:47 | INFO    | Valid rows: 395 | Rejected rows: 75
+2026-10-31 19:15:48 | INFO    | Saved Excel report: sales_report.xlsx
+2026-10-31 19:15:48 | INFO    | Saved chart: sales_by_product.png
+2026-10-31 19:15:48 | INFO    | Saved chart: sales_by_location.png
+2026-10-31 19:15:48 | INFO    | Saved chart: monthly_sales_trend.png
+2026-10-31 19:15:48 | INFO    | === Done: 500 raw -> 30 duplicates removed, 75 rejected, 395 clean rows ===

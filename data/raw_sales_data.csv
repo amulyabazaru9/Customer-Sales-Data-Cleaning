@@ -1,0 +1,501 @@
+order_id,order_date,customer_name,customer_email,phone,product,category,quantity,unit_price,city,state
+ORD-10075,2025/04/02,Priya Anderson,priya.anderson9@example.net,555.626.6630,27-inch 4K Monitor,Displays,1,349.0, Philadelphia ,PA
+ORD-10372,28/02/2025,John Okafor,JOHN.OKAFOR69@EXAMPLE.COM	,+1 555 897 3915,Noise Cancelling Headphones,Audio,2,199.0,chicago,IL
+ORD-10132,"July 14, 2025",Amara Garcia ,amara.garcia8@example.net,+1 555 411 7625,Webcam HD,Video,2,69.0,Los Angeles,CA
+ORD-10286,"April 13, 2025",Jennifer Okafor,jennifer.okafor31@example.com,5559147706,  External   SSD   1TB   ,Storage,2,119.99,San Diego,CA
+ORD-10106,22-Mar-2025, Aisha   Rossi   ,aisha.rossi99@example.com,5551538,Mechanical Keyboard,Accessories,5,89.99, Houston ,tx
+ORD-10363,2025-02-09,  Sarah Garcia ,sarah.garcia90@example.com,(555) 164-9691,laptop stand,Accessories,5,34.5,San Diego,CA
+  ord-10074 ,18-Jan-2025,Thomas Tanaka,,555.999.6414,External SSD 1TB,Storage,,119.99,Dallas,tx
+ORD-10075,2025/04/02,  PRIYA  ANDERSON ,priya.anderson9@example.net,555.626.6630,27-inch 4K Monitor,Displays,1,349.0, PHILADELPHIA ,PA
+ORD-10170,2025/05/24,Elena Clark,,+1-555-292-1859,External SSD 1TB,Storage,2,119.99,boston,ma
+ORD-10314,2025-05-21,Lucas Jackson,lucas.jackson96@example.net,5554700025,External SSD 1TB,sTORAGE,1,119.99,Seattle,WA
+ORD-10403,2025/01/14,Joseph Thomas,joseph.thomas76@example.org,5553678638,Wireless Mouse,Accessories,3,24.99,New York,NY
+ORD-10453,2025/08/13,Liam Miller,liam.miller52@example.,5557358113,Bluetooth Speaker,Audio,3,59.95,Chicago,IL
+ORD-10031,"February 11, 2025",Michael Williams, MICHAEL.WILLIAMS49@EXAMPLE.COM   ,+1 555 677 0619,Standing Desk,Furniture,2,N/A,Philadelphia,pa
+ORD-10071,2025-07-13,Michael Williams,michael.williams49@example.com,555.677.0619,Noise Cancelling Headphones,Audio,3,199.0,Philadelphia,PA
+ORD-10405,21-Aug-2025,Liam Tanaka,liam.tanaka95@example.com,555.242.2633,USB-C Hub,Accessories,6,39.99,Denver,CO
+ORD-10441,2025-12-28,Richard Miller,richard.miller69@example.org,555.807.7999,27-inch 4K Monitor,displays,3,349.0,Chicago,IL
+ORD-10202,02-Oct-2025,Mei Miller,mei.miller88@@example.com,5552724590,Office Chair	,Furniture,3,249.0,Denver,CO
+ORD-10395,20-Sep-2025,Jennifer Anderson,jennifer.anderson85example.net,555-977-0838,Bluetooth Speaker,Audio,6,59.95,Miami,FL
+ORD-10230,2025-07-15,  JESSICA JONES   ,jessica.jones84@example.net,555-278-8238,Wireless Mouse,Accessories,7,24.99,NEW YORK,ny
+ORD-10414,24/08/2025,Susan Khan,susan.khan64@example.org,+1 555 869 8256,Office Chair,Furniture,1,249.0,Denver ,CO
+ORD-10232,2025/12/19,Linda Smith,linda.smith95@example.org,(555) 474-4854,27-inch 4K Monitor,Displays,2,349.0,Houston,TX
+ORD-10090,10-09-2025,Richard Kim,richard.kim90@example.,5557705062,webcam hd,Video,2,69.0,Dallas,TX
+ORD-10287,10/02/2025,Emma Hernandez,emma.hernandez97@example.com,(555) 868-8755,27-inch 4K Monitor,Displays,2,349.0,New York,NY
+ORD-10317,2025/02/01,Fatima Davis,fatima.davis23@example.net,(555) 879-3853,USB-C Hub,Accessories,8,39.99,Seattle,WA
+ ord-10278	,25/07/2025,William Tanaka,william.tanaka88@example.org,+1-555-206-5818,Wireless Mouse,Accessories,7,24.99,Miami,FL
+ORD-10459,2025-07-02,Elena Nguyen,elena.nguyen92@example.org,555-418-5957,Office Chair,Furniture,3,$249.00,Chicago,IL
+ORD-10118,2025/01/18, Emma Jones ,emma.jones80@example.net,555-761-0562,LAPTOP PRO 14,Computers,3,1299.0,New York,NY
+ORD-10115,"November 01, 2025",Emma Khan, EMMA.KHAN47@EXAMPLE.COM   ,+1-555-696-0453,Bluetooth Speaker,Audio,8,$59.95,Philadelphia,PA
+ORD-10250,2025-06-23,Liam Tanaka,liam.tanaka95@example.com,(555) 242-2633,Webcam HD,Video,2,69.0,Denver,co
+ORD-10316,"June 21, 2025",jESSICA cLARK,jessica.clark21@example.com,+1 555 141 5846,Standing Desk,Furniture,2,$499.00,SAN DIEGO,CA
+ORD-10027,2025/02/28,Patricia Jackson,patricia.jackson32@example.com,5553237058,Laptop Pro 14,Computers,3,1299.0,Dallas,tx
+ORD-10062,06/10/2025,JESSICA RODRIGUEZ,jessica.rodriguez51@example.com,+1-555-603-3115,Standing Desk,Furniture,3,499.0,Denver,CO
+ORD-10222,"November 06, 2025",Fatima Davis, FATIMA.DAVIS23@EXAMPLE.NET	,+1-555-879-3853,Laptop Pro 14,Computers,2,1299.0,Seattle,WA
+ORD-10183,2025-03-20,Barbara Rodriguez,barbara.rodriguez60@example.com,5558434500,  Standing Desk	,Furniture,3,499.0,Los Angeles,CA
+ORD-10246,"April 07, 2025", Aisha Wilson	, AISHA.WILSON90@EXAMPLE.ORG	,(555) 313-5534,Mechanical Keyboard,Accessories,8,89.99,Seattle,WA
+ORD-10230,2025-07-15,JESSICA JONES,jessica.jones84@example.net,555-278-8238,Wireless Mouse,Accessories,7,24.99,New York,ny
+  ord-10043   ,"February 04, 2025", THOMAS    CLARK	   ,thomas.clark7@example.com,+1-555-810-6422,Bluetooth Speaker,Audio,1,59.95,DENVER,CO
+ORD-10409,08-08-2025,Sarah Garcia,sarah.garcia90@example.com,5551649691,27-inch 4K Monitor,Displays,1,349.0,san diego,CA
+ORD-10273,"March 31, 2025",eLIZABETH rODRIGUEZ,  ELIZABETH.RODRIGUEZ18@EXAMPLE.COM   ,555.540.8072,Mechanical Keyboard,Accessories,4,89.99,BOSTON,MA
+ORD-10198,"August 02, 2025",Linda Silva,linda.silva39@example.net,+1 555 785 1696,Laptop Stand,Accessories,4,34.5,Phoenix,AZ
+ord-10330   ,29/03/2025,,  JOHN.JOHNSON43@EXAMPLE.COM ,+1-555-499-3055,Mechanical Keyboard,Accessories,,89.99,Seattle,WA
+ORD-10381,2025/08/21,JOHN PATEL,,+1-555-777-4229,Laptop Stand,Accessories,7,34.5,Houston,tx
+ORD-10145,07-Oct-2025,JOSEPH TANAKA, JOSEPH.TANAKA26@EXAMPLE.COM   ,5551775,Office Chair,Furniture,3,249.0,New York,NY
+ORD-10319,2025/11/30,Linda Lee,linda.lee32@example.net,,External SSD 1TB,STORAGE,2,119.99,Miami,FL
+ORD-10218,2025/06/24,James Wilson,james.wilson34@example.org,+1-555-809-6887,Mechanical Keyboard,Accessories,4,$89.99,Phoenix,AZ
+ORD-10010,"October 19, 2025",Sarah Nguyen,sarah.nguyen63@example.com,(555) 321-9824,Office Chair,Furniture,0,249.0,Seattle,WA
+ORD-10270,25-Aug-2025,Daniel Anderson,daniel.anderson21@example.org,555-541-8934,Bluetooth Speaker,Audio,3,59.95,New York,ny
+ORD-10237,21-Dec-2025,Aisha Wilson,aisha.wilson90@example.org,+1-555-313-5534,Webcam HD,Video,3,69.0,seattle,WA
+ORD-10185,"February 02, 2025",Michael Nguyen,michael.nguyen56@example.org,555.789.7151, LAPTOP  PRO  14 ,Computers,3,"$1,299.00",San Diego,CA
+ORD-10455,,,omar.hernandez86@example.net,+1 555 376 8991,External SSD 1TB,Storage,1,119.99,San Diego,ca
+ORD-10380,"August 17, 2025",elena nguyen,elena.nguyen92@example.org,+1 555 418 5957,USB-C Hub,Accessories,0,39.99,Chicago,IL
+ORD-10139,20-Aug-2025,Linda Wilson,linda.wilson74@example.com,+1-555-174-4682,bluetooth speaker,Audio,2,59.95,Phoenix,az
+ORD-10150,15-Sep-2025,Richard Kim,richard.kim9@example.com,5554823498,Bluetooth Speaker,Audio,2,59.95,Denver,CO
+ORD-10245,25/10/2025,Fatima Lopez,fatima.lopez94@,5559580255,Webcam HD,Video,4,69.0,San Diego,CA
+ORD-10110,"January 29, 2025",Karen Wilson,karen.wilson86@example.net,+1-555-835-0099,External SSD 1TB,Storage,1,119.99,philadelphia,PA
+ORD-10201,31/07/2025,David Silva,david.silva14@example.net,555.245.8591,Noise Cancelling Headphones,Audio,1,199.0,Boston,MA
+ORD-10211,06-03-2025,,sarah.thomas10@example.net,555.493.4149,external ssd 1tb,Storage,3,119.99,Phoenix,AZ
+ORD-10469,06/01/2025,susan anderson,  SUSAN.ANDERSON75@EXAMPLE.NET ,5556406444,Webcam   HD ,Video,,69.0,Denver,CO
+ORD-10053,03/08/2025,Lucas Johnson,  LUCAS.JOHNSON27@EXAMPLE.ORG   ,5551327691,Office Chair,Furniture,1,249.0,San Diego,CA
+ORD-10401,2025-12-26,SOFIA NGUYEN,sofia.nguyen69@example.org,+1 555 293 5113,Noise Cancelling Headphones	,Audio,3,199.0,New York,NY
+ORD-10354,"July 22, 2025",Hiro Okafor,hiro.okafor68@example.com,555.643.8436,MECHANICAL KEYBOARD,Accessories,1,$89.99,Miami,FL
+ORD-10252,2025/08/06,Carlos Smith,carlos.smith76@example.net,+1 555 469 4634,USB-C Hub   ,Accessories,7,39.99,Houston,TX
+ORD-10065,2025/02/27,Barbara  Johnson	,barbara.johnson34@example.org,5554551070,Office Chair,Furniture,1,free,Philadelphia,pa
+ORD-10204,2025-03-25,Mary Williams,mary.williams83@example.org,+1 555 874 6014,Laptop Pro 14,Computers,two,1299.0,Chicago,IL
+ORD-10425,01-Jul-2025,Joseph Thomas,joseph.thomas76@example.org,555-367-8638,Webcam HD,Video,4,69.0,new york,NY
+ORD-10254,09-04-2025,Elena   Brown	,,+1 555 124 7595,oFFICE cHAIR,Furniture,3,free,Seattle,WA
+ORD-10114,"March 27, 2025",Liam Tanaka,liam.tanaka95@example.com,555-242-2633,  27-inch  4K  Monitor ,Displays,2,$349.00,Denver,co
+ORD-10064,24/11/2025,aISHA wILSON,aisha.wilson90@example.org,+1 555 313 5534,Mechanical Keyboard,Accessories,5,89.99,Seattle,WA
+ORD-10209,"April 10, 2025",Karen Wilson,karen.wilson71@example.com,555.581.3613,Noise Cancelling Headphones,Audio,1,199.0,,AZ
+ORD-10470,26-Jul-2025,jennifer okafor,jennifer.okafor31@example.com,+1 555 914 7706,Office Chair,Furniture,2,249.0,San Diego,CA
+ORD-10013,2025/03/04, Richard Anderson ,richard.anderson86@example.org,5553919694,Webcam HD,Video,1,69.0,Denver,CO
+ORD-10081,"September 11, 2025",Emma Thomas,emma.thomas57@example.net,555.957.6076,Standing Desk,Furniture,3,499.0,Houston,TX
+ORD-10420,"March 29, 2025",Susan  Jackson	,susan.jackson97@example.net,+1 555 437 4754,Mechanical Keyboard,Accessories,1.0,89.99,Boston,MA
+ORD-10169,04/05/2025,Daniel Anderson,DANIEL.ANDERSON21@EXAMPLE.ORG	,(555) 541-8934,Laptop Stand,Accessories,5,34.5,New York,NY
+ORD-10468,2025/12/13,jAMES wILLIAMS,james.williams91@example.net,+1-555-484-1005,Laptop Pro 14,Computers,2,1299.0,New York,NY
+ ord-10051 ,2025/03/29,Mei Okafor,mei.okafor72@example.org,+1 555 359 2974,USB-C Hub,Accessories,6,39.99,Miami,FL
+ORD-10069,11/12/2025,Mei Miller,mei.miller88@example.com,+1-555-272-4590,Office Chair,Furniture,2,249.0,Denver,CO
+ORD-10083,05/02/2025,Sarah Thomas,sarah.thomas10@example.net,+1 555 493 4149,Laptop Pro 14,Computers,2,1299.0,Phoenix,AZ
+ORD-10261,"April 07, 2025",John Anderson,john.anderson53@example.org,+1-555-881-6912,27-inch 4k monitor,Displays,1,349.0,Seattle,WA
+ORD-10285,2025/01/29, Carlos  Smith   ,carlos.smith76@example.net,+1-555-469-4634,Bluetooth Speaker,Audio,2,59.95,Houston,TX
+ORD-10465,"July 23, 2025",Mei Miller,mei.miller88@example.com,555-272-4590,Wireless Mouse,Accessories,4.0,24.99,Denver,CO
+ORD-10322,2025-01-11,Mary Williams,mary.williams83@example.org,+1 555 874 6014,Mechanical Keyboard,Accessories,3,99999.99,chicago,IL
+ORD-10112,21/02/2025,Elena Nguyen,elena.nguyen92@example.org,+1-555-418-5957,Office Chair,Furniture,2,249.0,Chicago,IL
+ORD-10215,10-21-2025,Emma Nguyen , EMMA.NGUYEN68@EXAMPLE.NET   ,+1-555-632-3376,Noise Cancelling Headphones,Audio,1,199.0,Miami,FL
+ORD-10434,2025/04/14,Carlos Smith,carlos.smith76@example.net,555-469-4634,Laptop Stand,Accessories,3,$34.50,Houston,TX
+ORD-10058,03-30-2025,Liam Miller,liam.miller52@example.com,5557358113,Bluetooth Speaker,Audio,8,59.95,Chicago,IL
+ORD-10396,2025/06/28,FATIMA SMITH,fatima.smith67@example.net,555-430-5700,Mechanical Keyboard   ,Accessories,8,$89.99,Denver,CO
+ORD-10325,2025-03-22,Liam Miller,liam.miller52@example.com,+1 555 735 8113,Office Chair,Furniture,2,249.0, Chicago   ,IL
+ORD-10131,unknown,Barbara Rodriguez,BARBARA.RODRIGUEZ60@EXAMPLE.COM	,5558434500,Laptop Stand,Accessories,7.0,34.5,Los Angeles,ca
+ORD-10296,20/03/2025,Omar Taylor,,5557542890,Mechanical Keyboard,aCCESSORIES,6,89.99,Phoenix,AZ
+ORD-10456,14-Feb-2025,James Nguyen,james.nguyen71@example.org,555-273-7893,Noise Cancelling Headphones,Audio,1,199.0,Denver,CO
+ORD-10221,"September 01, 2025",Linda Wilson,linda.wilson74@example.com,(555) 174-4682,USB-C HUB,Accessories,3,39.99,phoenix,AZ
+ORD-10070,2025/03/18,Amara Garcia,amara.garcia8@example.net,+1 555 411 7625,27-inch 4K Monitor,Displays,2,349.0,  Los Angeles ,CA
+ORD-10262,"July 26, 2025",Daniel Anderson,daniel.anderson21@example.org,+1-555-541-8934,Office Chair,Furniture,1,249.0,New York,NY
+ORD-10038,08-05-2025,Thomas Garcia, THOMAS.GARCIA75@EXAMPLE.ORG ,(555) 281-8692,Standing Desk,Furniture,3,499.0,New York,NY
+ORD-10271,"August 26, 2025",Emma Nguyen,,555.632.3376,Noise Cancelling Headphones,Audio,2,199.0,MIAMI,FL
+ORD-10146,2025/11/12,Michael Williams,michael.williams49@example.com,+1 555 677 0619,Standing Desk,Furniture,3,499.0,Philadelphia,PA
+,25/07/2025,  Jessica   Jones	,jessica.jones84@example.net,555.278.8238,27-inch 4K Monitor,Displays,3,349.0,New York,NY
+ORD-10384,2025/11/06,Omar Hernandez,omar.hernandez86@example.net,555.376.8991,Wireless Mouse,Accessories,3,24.99,,ca
+ORD-10379,2025/04/01,Liam Tanaka,liam.tanaka95@example.com,+1-555-242-2633,Noise Cancelling Headphones,Audio,2,199.0,Denver,CO
+ORD-10398,"September 01, 2025", Amara   Garcia ,amara.garcia8@example.net,555-411-7625,Webcam HD,Video,3,69.0,Los Angeles,CA
+ord-10077 ,12-03-2025,William Silva,william.silva57@@example.net,+1 555 817 5395,Office Chair,Furniture,1,249.0,BOSTON,MA
+ORD-10111,2025-03-31, William   Silva ,william.silva57@example.net,555.817.5395,noise cancelling headphones,Audio,2,199.0,Boston,MA
+ORD-10438,29/01/2025,Olivia Smith,olivia.smith15@example.org,55550173,Wireless Mouse,Accessories,1,24.99,Phoenix,AZ
+  ord-10113	,2025/01/01,Aisha Wilson, AISHA.WILSON35@EXAMPLE.COM ,555.627.9418,USB-C Hub,aCCESSORIES,7,39.99, Houston	,tx
+ORD-10457,2025/09/24,THOMAS ROSSI,thomas.rossi11@example.org,555-187-3851,Laptop Pro 14,Computers,2,1299.0,New York,NY
+ORD-10016,"August 22, 2025",sUSAN nGUYEN,susan.nguyen35@example.net,555.219.7935,External SSD 1TB,Storage,1,119.99,Denver,co
+ORD-10416,02-24-2025,Elizabeth Davis,elizabeth.davis50@example.net,5554589533,External SSD 1TB,Storage,1,$119.99,Chicago,IL
+ORD-10037,18-Mar-2025,Mary Williams,mary.williams83@example.org,(555) 874-6014,Office Chair,Furniture,2,249.0,Chicago,IL
+ORD-10072,07-23-2025,Karen Wilson,karen.wilson71@example.com,(555) 581-3613,Laptop Stand,Accessories,4,34.5,Phoenix ,az
+ORD-10310,"October 01, 2025",Fatima Hernandez,fatima.hernandez36@example.com,+1 555 664 7119,USB-C Hub,Accessories,2,39.99,Houston,TX
+ORD-10392,2025-01-13,David Rodriguez, DAVID.RODRIGUEZ15@EXAMPLE.COM ,+1-555-360-7983,usb-c hub,Accessories,7,39.99,Boston,MA
+ORD-10419,06-27-2025,Fatima Davis,fatima.davis23@example.net,+1-555-879-3853,Laptop Stand,accessories,5,34.5,Seattle,WA
+ORD-10367,,David Silva,david.silva14@example.net,+1 555 245 8591, Office Chair	,Furniture,3,249.0,bOSTON,MA
+ ord-10391   ,"January 23, 2025",,fatima.jones6@example.org,5551669324,Office Chair,Furniture,3,$249.00,Philadelphia,PA
+ORD-10079,03-20-2025,,susan.anderson75@example.net,555.640.6444,STANDING DESK,Furniture,3,499.0,dENVER,CO
+ORD-10463,05/03/2025,Karen   Wilson	,karen.wilson86@example.net,(555) 835-0099,Laptop Pro 14,Computers,2.0,1299.0,Philadelphia,PA
+ORD-10066,"April 22, 2025",Linda Smith,linda.smith95@example.,,Laptop Pro 14,Computers,3,1299.0,Houston,TX
+ORD-10298,30-Jan-2025,Fatima Lee,fatima.lee52@example.org,+1-555-332-0821,Office Chair,fURNITURE,3,249.0,Houston,TX
+ORD-10467,2025-02-11,HIRO JOHNSON,hiro.johnson48@example.net,(555) 348-4601,Laptop Pro 14,Computers,1,"$1,299.00",Seattle,wa
+ORD-10340,09-24-2025,Thomas Garcia,thomas.garcia75@example.org,555281,Wireless Mouse,Accessories,7,24.99, NEW YORK ,ny
+ORD-10385,"December 02, 2025",Thomas Rossi,THOMAS.ROSSI11@EXAMPLE.ORG   ,555.187.3851,USB-C Hub,Accessories,3,39.99,New York,NY
+ORD-10443,05-15-2025,Omar Hernandez,omar.hernandez86@example.net,(555) 376-8991,Bluetooth Speaker,Audio,4,59.95,San Diego,CA
+ORD-10135,07-25-2025,Elena Clark,elena.clark2@example.net,555-292-1859, Mechanical  Keyboard   ,Accessories,7,89.99,Boston,MA
+ ord-10044   ,02/02/2025,Elena Clark,elena.clark2@example.net,+1-555-292-1859,USB-C Hub,Accessories,8,39.99,bOSTON,MA
+ORD-10193,"May 07, 2025",Daniel Moore,daniel.moore85@example.net,+1 555 662 3525,External SSD 1TB,Storage,1,119.99,Miami,FL
+,"July 04, 2025",,jennifer.rossi97@example.com,, nOISE  cANCELLING  hEADPHONES   ,aUDIO,2,199.0,Denver,co
+ORD-10293,28-Aug-2025,Susan Anderson,susan.anderson75@example.net,555-640-6444,Standing Desk,Furniture,1,$499.00,Denver,CO
+ ord-10149 ,2025-13-45,Thomas Garcia,thomas.garcia75@example.org,5552818692,Mechanical Keyboard,Accessories,3,$89.99,NEW YORK,NY
+ORD-10311,unknown,,patricia.wilson94@example.org,+1-555-517-1761,Laptop Stand,Accessories,6,34.5,LOS ANGELES,CA
+ORD-10165,24/11/2025,Thomas Tanaka,thomas.tanaka6@example.net,+1-555-999-6414,USB-C Hub,accessories,8,39.99,dALLAS,TX
+ORD-10029,10-12-2025,William Jackson,william.jackson94@example.com,+1-555-875-5439,Bluetooth Speaker,Audio,6,-59.95,Chicago,IL
+ORD-10427,05/05/2025, Liam Davis   ,liam.davis26@example.org,+1 555 612 0253,  Noise  Cancelling  Headphones	,Audio,3,199.0,Philadelphia,PA
+ORD-10282,09-Sep-2025,LIAM DAVIS,,+1-555-258-2524,Laptop Pro 14,Computers,1,1299.0,Houston,TX
+  ord-10122	,09/04/2025,Ethan Patel,ethan.patel4@example.net,+1-555-803-8374,usb-c hUB,Accessories,4,39.99,Houston,TX
+ORD-10247,09-24-2025,Omar Taylor,omar.taylor1@example.org,5557542890,Laptop Stand,Accessories,6,34.5,Phoenix,AZ
+ORD-10373,28-Jul-2025,Michael Williams ,michael.williams49@example.com,555.677.0619,27-inch 4K Monitor,Displays,3,349.0,pHILADELPHIA,PA
+ORD-10389,2025/10/11,Linda Silva, LINDA.SILVA39@EXAMPLE.NET	,+1 555 785 1696,Webcam HD,Video,5,69.0,Phoenix,AZ
+ORD-10030,17-Oct-2025,,elena.clark2@example.net,5552921859,USB-C Hub,Accessories,7,39.99,Boston,MA
+ORD-10167,2025/05/12,Omar Rodriguez,omar.rodriguez82@example.net,5554684531,External SSD 1TB,Storage,3,119.99,Seattle,WA
+ORD-10144,02-May-2025,Hiro Johnson,hiro.johnson48@example.net,555.348.4601,  27-inch   4K   Monitor ,Displays,3,349.0,Seattle,WA
+ORD-10229,14-Feb-2025,Karen Wilson,karen.wilson71@example.com,(555) 581-3613,Mechanical Keyboard,Accessories,3,89.99,Phoenix,AZ
+ORD-10014,2025/03/16,Jessica Rodriguez,jessica.rodriguez51@example.com,+1 555 603 3115,  External   SSD   1TB	,Storage,2,119.99,Denver,CO
+ORD-10174,20-Nov-2025,Carlos Smith,carlos.smith76@example.net,555-469-4634,Webcam HD,Video,3,69.0,Houston,TX
+ORD-10220,2025/02/15,Barbara Johnson,barbara.johnson34@example.org,5554551,bLUETOOTH sPEAKER,Audio,1,59.95,Philadelphia,PA
+ORD-10366,2025-06-10,SARAH NGUYEN   ,sarah.nguyen63@example.com,,27-inch 4K Monitor,Displays,1,349.0,Seattle,WA
+ORD-10003,09-08-2025,Elizabeth Davis,elizabeth.davis50@example.net,555.458.9533,27-inch 4K Monitor,Displays,1,349.0,Chicago,IL
+ORD-10117,15/05/2025,AISHA RODRIGUEZ   ,aisha.rodriguez27@example.net,+1 555 627 1130,Wireless Mouse,Accessories,8,24.99,Boston,MA
+ORD-10177,11-24-2025,lINDA lEE,linda.lee32@example.net,(555) 166-6754,External SSD 1TB,Storage,3,119.99,Miami,FL
+ORD-10299,30-Nov-2025,  Fatima Davis	,fatima.davis23@example.net,+1 555 879 3853,Office Chair,fURNITURE,2,249.0,SEATTLE,WA
+ORD-10355,12-27-2025,James Nguyen,james.nguyen71@example.org,555-273-7893,Noise Cancelling Headphones,Audio,2,199.0,DENVER,CO
+ORD-10256,30/07/2025,Jessica Jones,jessica.jones84@example.net,+1 555 278 8238,Webcam HD,Video,6,69.0,,ny
+ORD-10422,04-10-2025,Jennifer Rossi,jennifer.rossi97@example.com,555.620.7974,Mechanical Keyboard,Accessories,7,89.99,Denver,CO
+ORD-10164,2025/07/25,ETHAN PATEL,ethan.patel26@example.com,+1 555 371 0343,  External  SSD  1TB ,Storage,2,119.99,Philadelphia,PA
+ORD-10004,05-May-2025,,amara.thomas16@example.com,555-207-4176,Webcam HD,Video,8,69.0,Houston,TX
+ORD-10104,03/08/2025,Thomas Clark,thomas.clark7@example.com,555.810.6422,Laptop Stand,Accessories,8,34.5,Denver,co
+ORD-10242,2025-10-30,Mei Okafor,mei.okafor72@example.org,5553592974,Laptop Stand,Accessories,3,34.5,  Miami ,fl
+ORD-10208,28-Sep-2025,Liam Tanaka,liam.tanaka95@example.com,+1 555 242 2633,Standing Desk,Furniture,1,499.0,Denver,CO
+ORD-10022,2025-13-45,William Jackson,william.jackson94@example.com,555-875-5439,STANDING DESK,Furniture,2.0,499.0,Chicago,IL
+  ord-10397   ,"October 18, 2025",  Ethan   Patel   ,ethan.patel26@example.com,555-371-0343,  Bluetooth   Speaker   ,Audio,1,59.95,  Philadelphia   ,PA
+ORD-10275,2025-06-12,Jennifer Anderson,jennifer.anderson85@example.net,555.977.0838,Standing Desk,Furniture,3,499.0,Miami,FL
+ORD-10346,02-15-2025,Liam Tanaka,liam.tanaka95@example.com,,27-inch 4K Monitor,Displays,1,349.0,Denver,CO
+ORD-10328,08-25-2025,Elena Smith,elena.smith15@example.com,(555) 350-0715,Webcam HD,Video,6,,Boston,MA
+ ord-10436	,2025/11/09,John Anderson,,555.881.6912,External SSD 1TB,storage,3,119.99,Seattle,WA
+ORD-10200,2025/11/12,Ethan Patel,ethan.patel4@example.net,+1 555 803 8374,Office Chair,Furniture,2,249.0,Houston,TX
+ORD-10347,04/04/2025,daniel anderson,daniel.anderson21@example.org,+1-555-541-8934,Webcam HD,Video,2.0,$69.00,NEW YORK,NY
+ORD-10277,2025/03/10,David Lopez,david.lopez9@example.com,+1 555 578 1295,Laptop Pro 14,Computers,2,1299.0,Philadelphia,PA
+ORD-10231,31/02/2025, MEI  MILLER	,mei.miller88@example.com,5552724590,Laptop Pro 14,Computers,2,1299.0,dENVER,CO
+ORD-10124,08-Nov-2025,Hiro Okafor,hiro.okafor68@example.com,+1-555-643-8436,Noise Cancelling Headphones,Audio,,199.0,Miami,FL
+ORD-10307,05/10/2025,Omar Rodriguez,  OMAR.RODRIGUEZ82@EXAMPLE.NET ,,  Mechanical  Keyboard   ,Accessories,3,89.99,seattle,WA
+ORD-10370,"October 02, 2025", JOHN   PATEL    , JOHN.PATEL9@EXAMPLE.NET   ,555.777.4229,USB-C Hub,Accessories,5,39.99,Houston,TX
+ORD-10249,10/07/2025,Richard Miller,richard.miller69@example.org,555-807-7999,usb-c hUB,Accessories,8,39.99,Chicago,IL
+ORD-10039,2025-11-16,Elena Clark,elena.clark2@example.net,5552921859,Laptop Pro 14,Computers,1,1299.0,Boston,MA
+ORD-10410,04-21-2025,jOHN oKAFOR,john.okafor69@example.com,555-897-3915,Mechanical Keyboard,Accessories,6,$89.99,Chicago,IL
+ORD-10274,05-03-2025,Aisha Wilson,aisha.wilson90@example.org,5553135534,Standing Desk,Furniture,2,499.0,seattle,WA
+ORD-10168,2025-07-31,Emma Nguyen,emma.nguyen68@example.net,+1 555 632 3376,Bluetooth Speaker,Audio,6,59.95,Miami,FL
+ORD-10466,05-10-2025,,thomas.tanaka6@example.net,(555) 999-6414,Webcam HD,Video,7,69.0,Dallas,TX
+ORD-10418,10-Aug-2025,JAMES NGUYEN,james.nguyen71@example.org,555.273.7893,External SSD 1TB,Storage,1,$119.99,Denver,CO
+ORD-10255,09-Feb-2025,Thomas Clark,thomas.clark7@example.com,+1-555-810-6422,Standing Desk,Furniture,3,499.0,Denver,co
+ORD-10112,21/02/2025,Elena Nguyen,elena.nguyen92@example.org,+1-555-418-5957,Office Chair,Furniture,2,249.0,Chicago,IL
+ORD-10078,2025/02/08,  Linda Lee   ,linda.lee32@example.net,5551666754,Laptop Stand,Accessories,6.0,34.5,Miami,fl
+ORD-10267,2025-13-45,Fatima Johnson, FATIMA.JOHNSON4@EXAMPLE.COM   ,+1-555-490-3402,Laptop Pro 14,Computers,3,1299.0,Houston,TX
+ORD-10308,07-17-2025,Joseph Tanaka,joseph.tanaka26@example.com,555.177.5337,External SSD 1TB,Storage,1,119.99,New York,NY
+ORD-10049,2025/07/08,Elena Smith,elena.smith15@example.com,5553500715,Office Chair ,Furniture,2,249.0,Boston,MA
+ORD-10128,2025-10-26,Lucas Johnson,lucas.johnson27@example.org,555-132-7691,standing desk,Furniture,3,499.0,san diego,CA
+ORD-10036,16-Sep-2025,Susan Anderson,susan.anderson75@example.net,5556406444,Mechanical Keyboard,aCCESSORIES,3.0,$89.99,Denver,CO
+ORD-10059,2025/06/28,Liam Davis,liam.davis61@example.org,555.258.2524,WEBCAM HD,Video,5,69.0,Houston,TX
+ORD-10448,"September 19, 2025",,noah.patel93@example.net,+1-555-848-1188,BLUETOOTH SPEAKER,Audio,6,59.95,San Diego,CA
+ORD-10020,09-May-2025,HIRO OKAFOR,hiro.okafor35@example.net,+1-555-287-1534,oFFICE cHAIR,Furniture,3,249.0,Philadelphia,PA
+ORD-10421,05-10-2025, LINDA WILSON	,linda.wilson74@example.com,5551744682,WEBCAM HD,Video,6,69.0,phoenix	,AZ
+ORD-10281,06-23-2025,David Rodriguez,david.rodriguez15@example.com,555.360.7983,Webcam HD,Video,8,69.0,Boston,MA
+,10/09/2025,Joseph Thomas	,joseph.thomas76@example.org,+1-555-367-8638,Noise Cancelling Headphones,Audio,3,199.0,New York,NY
+ORD-10266,06-24-2025,omar hernandez,omar.hernandez86@example.net,+1-555-376-8991,sTANDING dESK,Furniture,2,0,San Diego,CA
+ORD-10129,,omar wilson,omar.wilson77@example.org,+1 555 521 8028,Bluetooth Speaker,Audio,1,,Seattle,WA
+ORD-10368,2025-07-14,John Patel,john.patel9@example.net,5557774229,Webcam HD,Video,3,69.0,Houston,TX
+ORD-10093,2025-08-21,Lucas Jackson,lucas.jackson96@example.net,+1 555 470 0025,Bluetooth Speaker,Audio,8,59.95,Seattle,wa
+ORD-10451,N/A,Carlos Rodriguez,  CARLOS.RODRIGUEZ9@EXAMPLE.ORG ,(555) 954-6409,Laptop Stand,Accessories,8,34.5,Philadelphia,PA
+ORD-10439,2025-05-02,Linda Lee,linda.lee32@example.net,(555) 166-6754,Wireless Mouse,ACCESSORIES,4,24.99,mIAMI,FL
+ORD-10197,2025/06/04,Barbara Rodriguez,barbara.rodriguez60@example.com,+1 555 843 4500,Standing Desk,Furniture,1,$499.00,Los Angeles,CA
+ORD-10430,2025/05/29,Michael Williams,  MICHAEL.WILLIAMS69@EXAMPLE.COM ,,Webcam HD,vIDEO,-3,69.0, Seattle   ,WA
+ORD-10156,"September 05, 2025",Elizabeth Rodriguez,elizabeth.rodriguez18@example.com,5555408072,Laptop Pro 14,cOMPUTERS,2,1299.0,Boston,MA
+ORD-10057,2025/03/17,jOSEPH dAVIS,joseph.davis4@example.net,+1 555 768 5149,27-inch 4K Monitor,Displays,3,99999.99,houston,TX
+ORD-10007,"March 06, 2025",,james.williams91@example.net,555.484.1005, Laptop Pro 14 ,Computers,3.0,1299.0,new york,NY
+ORD-10151,2025-11-28,PATRICIA JACKSON,patricia.jackson32@example.com,(555) 323-7058,Laptop Pro 14,Computers,2,1299.0,Dallas,TX
+ORD-10190,16/05/2025,Fatima Lee,fatima.lee52@example.org,555.332.0821,USB-C Hub,Accessories,6,39.99,Houston,TX
+ORD-10233,03-Jun-2025,Linda Wilson, LINDA.WILSON74@EXAMPLE.COM ,+1 555 174 4682,Laptop Stand,Accessories,7,34.5,,AZ
+ORD-10126,"September 12, 2025",Ethan Patel,ethan.patel4@example.net,+1-555-803-8374,Standing Desk,Furniture,2,499.0,Houston,TX
+ORD-10333,2025-02-18,Richard Anderson,richard.anderson86@example.org,+1-555-391-9694,Office Chair,Furniture,2,249.0,dENVER   ,CO
+ORD-10367,,David Silva,david.silva14@example.net,+1 555 245 8591, Office Chair	,Furniture,3,249.0,bOSTON,MA
+ORD-10361,06-10-2025,William Thomas,william.thomas70example.net,555.987.4152,Laptop Pro 14,Computers,3,1299.0,Phoenix,AZ
+ORD-10431,03-Jul-2025,david silva,david.silva14@example.net,+1-555-245-8591,USB-C Hub,Accessories,4,39.99,Boston,MA
+ORD-10153,2025/06/12,lINDA wILSON,linda.wilson11@example.net,555.706.7228,Laptop Stand,Accessories,8,34.5,pHOENIX,AZ
+ORD-10109,"July 03, 2025",Liam Miller,,(555) 735-8113,Laptop Pro 14,Computers,2,1299.0,Chicago,il
+ORD-10375,05-Nov-2025,Aisha   Wilson   ,aisha.wilson35@example.com,555-627-9418,Standing Desk,Furniture,1,499.0,Houston,TX
+ORD-10376,2025-08-18,Richard Miller,RICHARD.MILLER69@EXAMPLE.ORG ,+1 555 807 7999,bluetooth speaker,Audio,2,59.95,Chicago,IL
+ORD-10450,"December 01, 2025",Richard Kim,richard.kim9@example.com,5554823498,Bluetooth Speaker,Audio,8,59.95,Denver,CO
+ORD-10272,10-Dec-2025,Aisha Johnson,AISHA.JOHNSON7@EXAMPLE.NET	,(555) 943-6429,Bluetooth Speaker,Audio,2,59.95,Dallas,TX
+ORD-10284,20-Mar-2025,William Jackson,,+1-555-875-5439,Bluetooth Speaker,Audio,1,59.95,Chicago,IL
+ORD-10365,17-May-2025,Fatima Jones,fatima.jones6@example.org,555.166.9324,Laptop Pro 14,Computers,1,1299.0,Philadelphia,PA
+ORD-10264,2025-10-04,William Silva,william.silva57@example.net,(555) 817-5395,Bluetooth Speaker,Audio,1,59.95,Boston,MA
+ ord-10035	,2025-02-07,Barbara Rodriguez,barbara.rodriguez60@example.com,+1 555 843 4500,External SSD 1TB,storage,2,119.99,LOS ANGELES,CA
+ORD-10227,15-Jul-2025,Carlos Smith,carlos.smith76@example.net,+1-555-469-4634,Webcam HD,Video,6.0,69.0,Houston,TX
+ORD-10421,05-10-2025,Linda Wilson,linda.wilson74@example.com,5551744682,WEBCAM HD,Video,6,69.0,Phoenix	,AZ
+ ord-10033   ,11-13-2025,Michael Nguyen,michael.nguyen56@example.org,555.789.7151, USB-C   Hub	,Accessories,8,39.99,San Diego,CA
+ORD-10326,2025-09-14, DANIEL   WILLIAMS	,daniel.williams30@example.com,+1-555-566-3623,Noise Cancelling Headphones,Audio,3,199.0,San Diego,CA
+ORD-10025,09/03/2025,,linda.wilson74@example.com,5551744682,Wireless Mouse,Accessories,1,24.99,phoenix,az
+ORD-10196,2025/07/17,James Williams,james.williams91@example.net,+1 555 484 1005,Standing Desk,Furniture,?,499.0,New York,ny
+ORD-10253,01-22-2025,Elena Smith,ELENA.SMITH15@EXAMPLE.COM	,+1-555-350-0715,Webcam HD,Video,5,69.0,bOSTON,MA
+ORD-10181,2025-07-17,susan anderson,susan.anderson75@example.net,555.640.6444,Laptop Stand,Accessories,8,$34.50,Denver,CO
+ORD-10119,07-18-2025, Linda  Wilson	,linda.wilson11@example.net,(555) 706-7228,Mechanical Keyboard,Accessories,7,89.99,Phoenix,AZ
+ORD-10213,26/09/2025,David Lopez,david.lopez9@example.com,(555) 578-1295,Laptop Pro 14,Computers,,1299.0,Philadelphia,pa
+ORD-10388,07/01/2025,John Okafor,john.okafor69@example.com,5558973915,Mechanical Keyboard,Accessories,7,89.99,chicago,il
+ORD-10318,11-30-2025,SUSAN NGUYEN,susan.nguyen35@example.net,555-219-7935,Bluetooth Speaker,Audio,1,59.95,Denver,co
+ORD-10241,06-Nov-2025,Olivia Davis,olivia.davis35@example.org,+1 555 148 6955,Noise Cancelling Headphones,Audio,1,199.0,Dallas,TX
+ORD-10306,03-03-2025,David Rodriguez,david.rodriguez15@example.com,+1 555 360 7983,Wireless Mouse,Accessories,3,24.99,BOSTON,MA
+ORD-10055,13/10/2025,  JENNIFER OKAFOR	,jennifer.okafor31@example.com,+1 555 914 7706,bLUETOOTH sPEAKER,Audio,6,59.95,San Diego,CA
+ORD-10426,"November 18, 2025",John Johnson,john.johnson43@example.com,555.499.3055,Office Chair,Furniture,2,-249.0,Seattle,WA
+ORD-10101,"October 23, 2025",Susan Jackson,SUSAN.JACKSON97@EXAMPLE.NET	,555-437-4754, Laptop  Pro  14 ,Computers,3,1299.0,Boston,MA
+ORD-10402,"March 05, 2025",John Anderson,,555-881-6912,Webcam HD,Video,6,69.0,Seattle,wa
+  ord-10442   ,2025-07-16,,amara.thomas16@example.com,555-207-4176,Office Chair,Furniture,2.0,249.0,Houston,tx
+ORD-10369,2025-11-13, Joseph   Thomas   ,joseph.thomas76@example.org,5553678638,Webcam HD,Video,8,69.0,nEW yORK,NY
+  ord-10026   ,2025-09-24,Lucas Johnson,lucas.johnson27example.org,555-132-7691,sTANDING dESK,Furniture,2,499.0,San Diego,CA
+ORD-10351,2025-09-24,Susan Anderson, SUSAN.ANDERSON75@EXAMPLE.NET   ,555-640-6444,USB-C Hub,Accessories,1,$39.99,  Denver   ,CO
+ORD-10041,2025-07-11,,elena.nguyen92@example.org,+1-555-418-5957,External SSD 1TB,Storage,1,$119.99,Chicago,il
+ORD-10123,N/A,Sarah Thomas,sarah.thomas10@example.net,555.493.4149,Laptop Pro 14,Computers,2,1299.0,Phoenix,AZ
+ORD-10444,15/07/2025,,susan.jackson97@example.net,(555) 437-4754,USB-C Hub,Accessories,8,0,Boston,MA
+ORD-10309,2025/07/11,Fatima Davis   ,fatima.davis23@example.net,(555) 879-3853,USB-C Hub,Accessories,3,39.99,Seattle,WA
+ORD-10199,2025/03/22,Fatima Lopez,fatima.lopez94@example.org,5559580255,Office Chair,Furniture,2,249.0,San Diego,CA
+ORD-10217,29/06/2025,Michael Williams,michael.williams69@example.com,(555) 544-9324,Mechanical Keyboard,Accessories,8,89.99,Seattle,WA
+ORD-10394,2025-10-23,Linda Wilson,linda.wilson11@example.net,+1-555-706-7228,Noise Cancelling Headphones,Audio,2,199.0,Phoenix,AZ
+  ord-10452   ,2025-11-12,Jessica Clark,jessica.clark21@example.com,+1-555-141-5846,Office Chair,Furniture,1,$249.00,San Diego,CA
+ORD-10040,24/03/2025,Thomas Clark,thomas.clark7@example.com,+1 555 810 6422,27-inch 4K Monitor,Displays,1,349.0,  Denver   ,CO
+,05/04/2025,Fatima Smith,fatima.smith67@example.net,+1 555 430 5700,mECHANICAL kEYBOARD,ACCESSORIES,3,89.99,Denver,CO
+ORD-10186,2025/05/12,,richard.anderson86@example.org,(555) 391-9694,Office Chair,Furniture,1,249.0,Denver,co
+ORD-10024,21-Aug-2025,hIRO oKAFOR, HIRO.OKAFOR35@EXAMPLE.NET ,+1 555 287 1534,Mechanical Keyboard,Accessories,2,$89.99, Philadelphia	,PA
+ORD-10224,2025/05/29,Barbara Rodriguez ,barbara.rodriguez60@example.com,555.843.4500,Noise Cancelling Headphones,Audio,1.0,199.0,Los Angeles,ca
+ORD-10105,"May 30, 2025",Aisha Wilson,aisha.wilson35@@example.com,+1 555 627 9418,LAPTOP STAND,Accessories,5,34.5,Houston,TX
+ORD-10121,06-03-2025,Olivia Smith,olivia.smith15@example.org,+1-555-501-7343,USB-C Hub,Accessories,8.0,39.99,Phoenix,AZ
+ORD-10095,22/07/2025,william tanaka,WILLIAM.TANAKA88@EXAMPLE.ORG	,(555) 206-5818,Wireless Mouse,Accessories,5,$24.99, Miami   ,FL
+ORD-10411,"November 27, 2025",Richard Kim,richard.kim9@example.com,(555) 482-3498,Office Chair,Furniture,2,-249.0,DENVER,CO
+ORD-10408,"December 29, 2025",Emma Khan,  EMMA.KHAN47@EXAMPLE.COM   ,+1 555 696 0453,Bluetooth Speaker,Audio,5,59.95,Philadelphia,PA
+ORD-10155,2025/07/07,Jessica Jones,jessica.jones84@example.net,+1-555-278-8238,USB-C Hub,Accessories,7,39.99,new york,NY
+ORD-10449,2025/01/27,lUCAS jACKSON,lucas.jackson96@example.net,555.470.0025,External SSD 1TB,Storage,3,119.99,Seattle,wa
+ORD-10386,"May 06, 2025",Emma Nguyen,  EMMA.NGUYEN68@EXAMPLE.NET	,+1-555-632-3376,Standing Desk,fURNITURE,,499.0,Miami,FL
+ORD-10462,04-28-2025,Lucas Johnson,,,Laptop Pro 14,Computers,2,1299.0,San Diego,CA
+ ord-10001 ,29-Nov-2025,Richard Miller,richard.miller69@example.org,555-807-7999,Laptop Stand,Accessories,2,34.5,Chicago,IL
+  ord-10412	,2025-10-01,Daniel Miller,daniel.miller8@,(555) 202-2698,Wireless Mouse,Accessories,1,24.99,bOSTON,ma
+ORD-10085,2025-09-14, Jessica   Clark   ,jessica.clark21@example.com,555-141-5846,Laptop Pro 14,Computers,1,1299.0,San Diego,CA
+ORD-10203,28/01/2025,JAMES WILLIAMS,james.williams91@example.net,+1 555 484 1005,Office Chair,Furniture,3,249.0,New York,NY
+ORD-10235,2025-10-30,  Liam  Davis   ,liam.davis26@example.org,+1-555-612-0253,USB-C Hub,Accessories,2,39.99,Philadelphia,pa
+ORD-10382,23/06/2025,William Silva,william.silva57@example.net,(555) 817-5395,Laptop Pro 14,Computers,0,"$1,299.00",Boston,MA
+ORD-10073,08-02-2025,Mei Okafor,mei.okafor72@example.org,5553592974,Office Chair,Furniture,2,249.0,Miami,FL
+ORD-10400,15-Sep-2025,John Johnson,john.johnson43@example.com,555.499.3055,noise cancelling headphones,Audio,1,199.0,Seattle,WA
+ORD-10407,"March 02, 2025",jOHN aNDERSON,JOHN.ANDERSON53@EXAMPLE.ORG ,555-881-6912,Wireless Mouse,Accessories,0,24.99,Seattle,WA
+,28-Feb-2025,Lucas Johnson	,LUCAS.JOHNSON27@EXAMPLE.ORG ,+1 555 132 7691,Bluetooth Speaker,Audio,7,59.95,San Diego,CA
+ORD-10100,10-Nov-2025,OMAR  RODRIGUEZ ,OMAR.RODRIGUEZ82@EXAMPLE.NET	,+1-555-468-4531,Webcam HD,Video,1,69.0,seattle,WA
+ORD-10067,12-Jul-2025,  Mary   Williams	, MARY.WILLIAMS83@EXAMPLE.ORG ,5558746014,27-inch 4K Monitor,Displays,1,349.0,Chicago,IL
+ORD-10335,29/03/2025,Sarah  Hernandez   , SARAH.HERNANDEZ41@EXAMPLE.NET ,+1-555-332-1531,USB-C Hub,ACCESSORIES,1,39.99, LOS ANGELES ,CA
+ORD-10453,2025/08/13,Liam Miller,liam.miller52@example.,5557358113,Bluetooth Speaker,Audio,3,59.95,Chicago,IL
+ORD-10269,09-May-2025,amara garcia,amara.garcia8@example.net,+1-555-411-7625,27-inch 4K Monitor,Displays,3,349.0,Los Angeles,CA
+ORD-10294,04-18-2025,JOHN JOHNSON,john.johnson43@example.com,555-499-3055,laptop stand,Accessories,1,34.5,Seattle,WA
+ORD-10086,05-05-2025,Priya Anderson,PRIYA.ANDERSON9@EXAMPLE.NET   ,+1-555-626-6630,USB-C Hub,Accessories,3,39.99,Philadelphia,PA
+ORD-10348,2025-01-05,priya anderson,,555.626.6630,Mechanical Keyboard,Accessories,1,89.99,Philadelphia,PA
+ORD-10454,2025-02-20,Liam Davis,liam.davis26@example.org,+1 555 612 0253,Bluetooth Speaker,Audio,6,59.95,Philadelphia,pa
+ORD-10015,14/06/2025,  Liam   Miller	,liam.miller52@example.com,+1-555-735-8113,Webcam HD,Video,4,$69.00,Chicago,il
+ORD-10305,2025-04-30,Aisha Johnson,aisha.johnson7@example.net,+1 555 943 6429,27-inch 4K Monitor,Displays,2,349.0,DALLAS,TX
+ORD-10356,07-20-2025,Richard Miller,RICHARD.MILLER69@EXAMPLE.ORG ,+1-555-807-7999,27-inch 4K Monitor,Displays,1,349.0,Chicago,IL
+ ord-10219	,14-Jul-2025,Linda  Silva ,linda.silva39@example.net,+1 555 785 1696,Office Chair,Furniture,2,249.0,Phoenix,AZ
+ORD-10320,12-22-2025,Fatima Smith,fatima.smith67@example.net,(555) 430-5700,Webcam HD,Video,8,69.0,Denver,CO
+ORD-10056,2025-01-09,John Johnson,john.johnson43@example.com,,Webcam HD,Video,6,69.0,Seattle,WA
+ORD-10260,"April 03, 2025",pRIYA  aNDERSON ,priya.anderson9@example.net,555.626.6630,  Mechanical Keyboard ,Accessories,6,89.99,Philadelphia,PA
+ORD-10120,20/01/2025,Sarah Garcia,sarah.garcia90@example.com,(555) 164-9691,Webcam HD,Video,-1,69.0,San Diego,CA
+ORD-10021,09-04-2025,william tanaka,william.tanaka88@example.org,+1 555 206 5818,Noise Cancelling Headphones,AUDIO,2,199.0,Miami,FL
+ ord-10154	,2025/10/10,Sarah Nguyen,sarah.nguyen63@example.com,+1 555 321 9824,Webcam HD,Video,2,69.0,sEATTLE,WA
+ORD-10206,01-04-2025, Barbara  Silva	,barbara.silva43@example.org,(555) 516-3555,Office Chair,Furniture,1,free,Denver,CO
+ORD-10248,22/08/2025,Barbara Rodriguez,barbara.rodriguez60@example.com,555-843-4500,Noise Cancelling Headphones,Audio,1,199.0,Los Angeles,CA
+ORD-10317,2025/02/01,Fatima Davis,fatima.davis23@example.net,(555) 879-3853,USB-C Hub,Accessories,8,39.99,Seattle,WA
+ORD-10413,13-Mar-2025,sARAH oKAFOR,sarah.okafor67@example.org,, Wireless  Mouse ,Accessories,2.0,24.99,Denver,CO
+ORD-10130,08-Apr-2025,Joseph Tanaka,JOSEPH.TANAKA26@EXAMPLE.COM   ,(555) 177-5337,External SSD 1TB,Storage,1,119.99,New York,NY
+ORD-10125,12-17-2025,Carlos Smith,carlos.smith76@example.net,555.469.4634,Noise Cancelling Headphones,Audio,1.0,199.0,Houston,TX
+ORD-10243,09/01/2025,  Thomas Garcia ,thomas.garcia75@example.org,555.281.8692,Mechanical Keyboard,ACCESSORIES,8,89.99,New York,NY
+ORD-10205,27-Jan-2025, Omar  Wilson ,omar.wilson77@example.org,5555218028,Laptop Pro 14,Computers,2,1299.0,Seattle,WA
+ORD-10359,16-Jul-2025,JESSICA CLARK,jessica.clark21@example.com,5551415846,USB-C   Hub	,Accessories,8,39.99,San Diego,ca
+ORD-10295,2025-11-06,Omar Taylor,OMAR.TAYLOR1@EXAMPLE.ORG	,(555) 754-2890, External  SSD  1TB	,Storage,3,119.99,Phoenix,AZ
+ORD-10304,"June 28, 2025",Aisha Rossi,aisha.rossi99@example.com,+1 555 153 8552,external ssd 1tb,Storage,1,119.99,Houston,TX
+ORD-10234,22/06/2025,Patricia Wilson,patricia.wilson94@example.org,+1 555 517 1761, Wireless   Mouse   ,Accessories,1,24.99, los   angeles   ,CA
+ORD-10225,08/01/2025,John Anderson, JOHN.ANDERSON53@EXAMPLE.ORG   ,+1 555 881 6912,Noise Cancelling Headphones,audio,3,199.0,Seattle,WA
+ORD-10012,01-19-2025,William Silva,william.silva61@example.org,+1 555 514 7994,  External   SSD   1TB	,Storage,2,119.99,Phoenix,AZ
+ORD-10316,"June 21, 2025",  JESSICA   CLARK	,jessica.clark21@example.com,+1 555 141 5846,Standing Desk,Furniture,2,$499.00,SAN DIEGO,CA
+ ord-10280   ,2025/11/02,Karen Wilson,karen.wilson71@example.com,+1-555-581-3613,27-inch   4K   Monitor   ,Displays,2,349.0,Phoenix,AZ
+ORD-10334,31/02/2025,Ethan Okafor,,555-600-7072,External SSD 1TB,Storage,2.0,119.99,Los Angeles,ca
+ORD-10084,23/11/2025,Sarah   Johnson	,sarah.johnson1@example.org,5555394880,OFFICE CHAIR,Furniture,1,249.0,Chicago,IL
+ORD-10157,12-Jul-2025,Fatima Jones,fatima.jones6@example.org,555.166.9324,USB-C Hub,Accessories,7,$39.99,PHILADELPHIA,PA
+ORD-10339,2025-04-30,Sofia Nguyen,sofia.nguyen69@example.org,+1 555 293 5113,laptop pro 14,Computers,3,1299.0,New York,NY
+ORD-10337,,,william.jackson94@example.com,+1-555-875-5439,Bluetooth Speaker,Audio,3.0,59.95,Chicago,IL
+ORD-10052,"January 31, 2025",rICHARD kIM,richard.kim9@example.com,555-482-3498,Laptop Pro 14,Computers,1,"$1,299.00",Denver,co
+ORD-10173,07-04-2025,Emma Clark,emma.clark94@example.com,+1-555-265-1177,Noise Cancelling Headphones,Audio,2,199.0,Denver,CO
+ORD-10172,15-Jul-2025,Hiro   Johnson	,hiro.johnson48@example.net,555.348.4601,27-inch 4K Monitor,DISPLAYS,1,99999.99,Seattle,WA
+ORD-10208,28-Sep-2025,LIAM   TANAKA   ,liam.tanaka95@example.com,+1 555 242 2633,Standing Desk,Furniture,1,499.0,dENVER,CO
+ORD-10216,27-Aug-2025,Sarah Johnson,sarah.johnson1@example.org,555-539-4880,mECHANICAL kEYBOARD,Accessories,3,89.99,Chicago,IL
+ORD-10082,13-Jun-2025,Omar Wilson,omar.wilson77@example.org,(555) 521-8028,27-inch 4K Monitor,Displays,2,349.0,Seattle,WA
+ORD-10005,12-Oct-2025,aISHA jOHNSON,aisha.johnson7@example.net,+1 555 943 6429,Webcam HD,Video,4,69.0,Dallas,TX
+ORD-10184,06-28-2025,Elena Clark,elena.clark2@example.net,555.292.1859,External SSD 1TB,Storage,2,119.99,Boston,MA
+ORD-10323,03/11/2025,Jennifer Okafor,jennifer.okafor31@example.com,555-914-7706,bLUETOOTH sPEAKER,Audio,7,59.95,San Diego	,ca
+ORD-10054,01-05-2025,Carlos Smith,carlos.smith76@example.net,+1 555 469 4634,External SSD 1TB,Storage,1,119.99,Houston,tx
+ORD-10332,2025-09-09,Emma Clark,emma.clark94@example.com,555.265.1177,Office Chair,Furniture,2,249.0,Denver,CO
+ORD-10018,04/05/2025,Joseph Davis,joseph.davis4@example.net,555.768.5149,Standing Desk,Furniture,2,499.0,Houston,TX
+ORD-10302,"July 26, 2025",Priya Anderson,priya.anderson9@example.net,+1-555-626-6630,External SSD 1TB,Storage,3,119.99,PHILADELPHIA,PA
+ORD-10194,17-Dec-2025,olivia smith,olivia.smith15@example.org,,Laptop Stand,Accessories,0,34.5,Phoenix,AZ
+ORD-10289,"March 01, 2025",Linda Smith,linda.smith95@example.org,+1 555 474 4854,27-inch 4K Monitor,Displays,1,349.0,HOUSTON,TX
+ORD-10191,02-10-2025,Mei Miller,mei.miller88@example.com,+1-555-272-4590,27-inch 4K Monitor,Displays,1,TBD,denver,CO
+ORD-10166,2025-09-23,Jessica Clark,jessica.clark21@example.com,555.141.5846,Laptop Stand,Accessories,1,,SAN DIEGO,CA
+ORD-10460,2025-11-04,Noah Patel,noah.patel93@,555.848.1188,Webcam HD,Video,7,free,San Diego,CA
+ORD-10344,28-Jun-2025,Linda Lee,linda.lee32@example.net,(555) 166-6754,Noise Cancelling Headphones,Audio,-3,199.0,Miami,FL
+ORD-10419,06-27-2025,Fatima Davis,fatima.davis23@example.net,+1-555-879-3853,Laptop Stand,accessories,5,34.5,Seattle,WA
+ORD-10244,2025-10-22,Liam Davis,liam.davis26@example.org,(555) 612-0253,eXTERNAL ssd 1tb,sTORAGE,1,119.99,philadelphia,PA
+ORD-10424,"January 28, 2025",jessica clark,jessica.clark21@example.com,+1-555-141-5846,Mechanical Keyboard,Accessories,8,$89.99,San Diego,CA
+ORD-10367,,DAVID SILVA   ,david.silva14@example.net,+1 555 245 8591, Office Chair	,Furniture,3,249.0,BOSTON,MA
+ORD-10338,2025/03/29,Sarah Johnson,sarah.johnson1@example.org,555-539-4880,Office Chair,Furniture,2,249.0,Chicago,IL
+ORD-10126,"September 12, 2025",Ethan Patel,ethan.patel4@example.net,+1-555-803-8374,Standing Desk,Furniture,2,499.0,Houston,TX
+ORD-10445,07-Jan-2025,        RICHARD      KIM   	,richard.kim90@example.org,+1 555 770 5062,  Office  Chair	,Furniture,1,249.0,Dallas,TX
+ORD-10017,"May 28, 2025",Carlos  Rodriguez   ,carlos.rodriguez9@example.org,55595,Standing Desk,Furniture,1,499.0,Philadelphia,pa
+ORD-10134,2025-06-01,Olivia Smith,olivia.smith15@example.org,(555) 501-7343,WEBCAM  HD	,Video,5,69.0,Phoenix,az
+ORD-10240,"October 27, 2025",Richard Kim, RICHARD.KIM9@EXAMPLE.COM	,555.482.3498,Webcam HD,Video,8.0,$69.00,Denver,CO
+ ord-10415 ,28-Nov-2025,,john.okafor69@example.com,555-897-3915,Standing Desk,Furniture,3,499.0,Chicago,IL
+ORD-10417,"January 15, 2025",Elena Clark,elena.clark2@example.net,5552921859,  Noise Cancelling Headphones ,Audio,2,199.0,Boston,MA
+ORD-10361,06-10-2025,William Thomas,william.thomas70example.net,555.987.4152,Laptop Pro 14,Computers,3,1299.0,Phoenix,AZ
+ORD-10263,N/A,william thomas,william.thomas70@example.net,+1 555 987 4152,Webcam HD,Video,3,69.0,Phoenix,AZ
+ORD-10428,19-Sep-2025,Mei Okafor,mei.okafor72@example.org,555-359-2974,Standing Desk,Furniture,,499.0,Miami,fl
+ ord-10138 ,"September 12, 2025",Liam Davis,liam.davis61@example.org,+1-555-258-2524,Mechanical Keyboard,Accessories,1.0,89.99,Houston,TX
+ORD-10283,03-05-2025,Emma Thomas,emma.thomas57@example.net,+1 555 957 6076, USB-C   Hub   ,Accessories,6,39.99,hOUSTON ,TX
+ORD-10258,2025-01-10,,omar.rodriguez82@example.net,5554684531,mECHANICAL kEYBOARD ,Accessories,8,89.99,Seattle,WA
+ORD-10176,02/12/2025,  fatima   lee   ,fatima.lee52@example.org,+1 555 332 0821,Mechanical Keyboard,Accessories,7,89.99,Houston,TX
+ORD-10107,12-Apr-2025,Hiro Okafor,hiro.okafor68example.com,+1-555-643-8436,USB-C Hub,Accessories,7,39.99,  Miami	,FL
+ORD-10148,09-18-2025,Jennifer Okafor,JENNIFER.OKAFOR31@EXAMPLE.COM ,555-914-7706,External SSD 1TB,Storage,2,$119.99,San Diego,CA
+ORD-10350,2025-06-14,Linda Smith,linda.smith95@example.org,(555) 474-4854,Standing Desk,Furniture,1,499.0,Houston,TX
+ORD-10331,05/02/2025,Amara Garcia,amara.garcia8@example.net,555.411.7625,Webcam HD,Video,7,,LOS ANGELES,CA
+ORD-10178,2025-05-30,Richard Kim,richard.kim90@example.org,+1-555-770-5062,27-inch 4K Monitor,Displays,3,349.0,Dallas,TX
+ORD-10223,2025/02/10,David Lopez,david.lopez9example.com,+1-555-578-1295,Laptop Pro 14,cOMPUTERS,1,1299.0,Philadelphia   ,PA
+ORD-10360,,linda wilson, LINDA.WILSON74@EXAMPLE.COM ,+1 555 174 4682,Mechanical Keyboard,Accessories,3,89.99,  Phoenix	,AZ
+ORD-10108,30/03/2025,linda silva,linda.silva39@example.net,5557851696,27-INCH 4k mONITOR,Displays,2,349.0,,AZ
+ORD-10292,11-Jun-2025,John Patel,john.patel9@example.net,(555) 777-4229,Office Chair,Furniture,3,249.0,Houston,TX
+ORD-10276,21-Aug-2025, Daniel Moore	,daniel.moore85@example.net,(555) 662-3525,Bluetooth Speaker,Audio,1,59.95,Miami,FL
+ORD-10080,2025-01-07,Lucas Johnson,lucas.johnson27@example.org,555-132-7691,27-INCH 4k mONITOR,Displays,2,349.0,San Diego,CA
+ORD-10198,"August 02, 2025",Linda Silva,linda.silva39@example.net,+1 555 785 1696,Laptop Stand,Accessories,4,34.5,Phoenix,AZ
+ORD-10300,2025-08-05, Sarah   Thomas   ,sarah.thomas10@example.net,5554934149,Noise Cancelling Headphones,Audio,3,199.0,Phoenix,AZ
+ORD-10019,2025/09/05,  Daniel   Anderson   ,,+1-555-541-8934,27-inch 4K Monitor,Displays,1,349.0,New York,NY
+ORD-10088,02/03/2025,Susan Khan,susan.khan64@example.org,5558698256,Bluetooth Speaker,Audio,4,59.95,Denver,CO
+ORD-10352,2025/03/05,Michael Williams,michael.williams69@example.com,+1 555 544 9324,sTANDING dESK,Furniture,3,499.0,Seattle,WA
+ORD-10324,"September 18, 2025",Joseph Tanaka,joseph.tanaka26@example.com,+1 555 177 5337,Standing Desk,Furniture,two,499.0,New York,NY
+ORD-10231,31/02/2025,Mei Miller,mei.miller88@example.com,5552724590,Laptop Pro 14,Computers,2,1299.0,Denver,CO
+ORD-10268,"January 25, 2025",Carlos Smith,carlos.smith76@example.net,555.469.4634,Noise Cancelling Headphones,Audio,2.0,199.0,Houston,TX
+ ord-10406   ,2025-05-25,William Jackson,william.jackson94@example.com,555-875-5439,USB-C Hub,Accessories,5,39.99,CHICAGO,IL
+ORD-10179,2025-09-30,Carlos Smith,carlos.smith76@example.net,555-469-4634,Standing Desk,Furniture,0,499.0,Houston,TX
+ORD-10187,06/02/2025,Thomas Clark,THOMAS.CLARK7@EXAMPLE.COM ,555-810-6422,Wireless Mouse,Accessories,5,24.99,Denver,CO
+ORD-10297,"March 12, 2025",Fatima Davis,fatima.davis23@example.net,(555) 879-3853,Laptop Stand,aCCESSORIES,7,34.5,SEATTLE,wa
+ord-10182 ,02-27-2025,Fatima Smith,fatima.smith67@example.net,+1-555-430-5700,Laptop Stand,accessories,4,34.5,Denver,CO
+ORD-10251,"February 14, 2025",Priya Anderson,priya.anderson9@example.net,5556266630,Standing Desk,Furniture,3,499.0,  Philadelphia	,PA
+ORD-10048,08-16-2025,Omar Wilson,omar.wilson77@example.org,+1-555-521-8028,Laptop Pro 14,Computers,1,"$1,299.00",Seattle,WA
+ORD-10136,2025-03-08,lUCAS   jOHNSON	,lucas.johnson27@example.org,+1-555-132-7691,Standing Desk,Furniture,2,499.0,San Diego,CA
+ORD-10226,23-Nov-2025,Linda Wilson,linda.wilson74@example.,555.174.4682,Webcam HD,Video,3,69.0,Phoenix,AZ
+ORD-10358,"November 02, 2025",John Johnson   ,john.johnson43@example.com,555.499.3055,LAPTOP PRO 14	,Computers,1,1299.0,Seattle,WA
+ORD-10133,"September 25, 2025",,jessica.jones84@example.net,5552788238, Noise   Cancelling   Headphones ,Audio,1,$199.00,NEW YORK,ny
+ORD-10152,2025/04/10,Sarah Thomas,sarah.thomas10@example.net,555.493.4149,Noise Cancelling Headphones,Audio,1,199.0,Phoenix,AZ
+ORD-10091,2025/10/29,patricia davis,patricia.davis73@example.com,+1 555 915 3566,Laptop Stand,Accessories,6,34.5,Los Angeles,CA
+ORD-10103,2025/11/15,John Johnson,john.johnson43@example.com,555-499-3055,  Laptop   Pro   14	,Computers,1,1299.0,Seattle,WA
+ord-10140	,"April 08, 2025",Ethan Patel,ethan.patel26@example.com,5553710343,WEBCAM HD,Video,6,69.0,Philadelphia,PA
+ORD-10097,2025/11/27,John Okafor,john.okafor69@example.com,555.897.3915,Noise Cancelling Headphones,Audio,1,199.0,Chicago,IL
+ORD-10116,14-Feb-2025,linda smith,linda.smith95@example.org,(555) 474-4854,27-inch 4K Monitor,Displays,2,$349.00,Houston,TX
+ORD-10212,12-28-2025,Joseph Tanaka,joseph.tanaka26@example.com,555.177.5337,Noise Cancelling Headphones,audio,2,199.0,New York,NY
+ORD-10162,29-Jul-2025,,barbara.silva43@example.org,5555163555,External SSD 1TB,Storage,2,119.99,Denver,CO
+ord-10446 ,31-Mar-2025,Olivia Smith,olivia.smith15@example.org,555-501-7343,sTANDING dESK,fURNITURE,1,0,Phoenix,AZ
+ORD-10072,07-23-2025,Karen Wilson,karen.wilson71@example.com,(555) 581-3613,Laptop Stand,Accessories,4,34.5,Phoenix ,az
+ORD-10256,30/07/2025,JESSICA   JONES	,jessica.jones84@example.net,+1 555 278 8238,Webcam HD,Video,6,69.0,,ny
+ORD-10092,30-Jul-2025,Susan Nguyen,susan.nguyen35@example.net,+1-555-219-7935,USB-C Hub,Accessories,1,39.99,DENVER,CO
+,01-Sep-2025,Joseph Davis,joseph.davis4@example.net,(555) 768-5149,External SSD 1TB,Storage,3,119.99,Houston,TX
+ORD-10362,2025-11-29, Susan  Jackson	,susan.jackson97@example.net,+1-555-437-4754,27-inch 4K Monitor,Displays,1,349.0,boston,MA
+ORD-10195,2025-03-14,Joseph Davis,joseph.davis4@@example.net,+1 555 768 5149,Laptop Pro 14,Computers,3.0,1299.0,Houston,TX
+ORD-10028,2025/07/10,Linda Lee,linda.lee32@example.net,5551666754,Mechanical Keyboard,Accessories,3,89.99,Miami,FL
+ORD-10159,03-Nov-2025,Susan Nguyen,susan.nguyen82@example.org,5559196204,27-inch 4K Monitor,Displays,3,349.0,sEATTLE,WA
+ORD-10068,2025-12-05,Omar Rodriguez,omar.rodriguez82@example.net,555-468-4531,Wireless Mouse,Accessories,7,24.99,sEATTLE,WA
+ORD-10172,15-Jul-2025,  HIRO   JOHNSON		,hiro.johnson48@example.net,555.348.4601,27-inch 4K Monitor,DISPLAYS,1,99999.99,SEATTLE,WA
+ORD-10387,2025/03/13,Richard Miller,richard.miller69@@example.org,+1-555-807-7999,Bluetooth Speaker,Audio,5,59.95, Chicago ,il
+ORD-10447,15-Apr-2025,Richard Kim   ,richard.kim9@example.com,+1-555-482-3498,Laptop Stand,Accessories,-1,0,Denver,co
+ORD-10098,2025-11-23,Patricia Davis,patricia.davis73@example.com,(555) 915-3566, WEBCAM  HD ,Video,2,69.0,Los Angeles,CA
+ ord-10329 ,2025/12/20,Linda Silva,linda.silva39@example.net,+1 555 785 1696,27-inch 4K Monitor,Displays,3,349.0,PHOENIX,AZ
+ORD-10349,07-13-2025,Fatima Smith,fatima.smith67@example.net,+1 555 430 5700,27-INCH 4k mONITOR,Displays,3,349.0,Denver,CO
+ORD-10158,"November 05, 2025",Ethan Taylor,ethan.taylor12@example.com,5553564251,BLUETOOTH SPEAKER,Audio,2,59.95,Los Angeles,CA
+ORD-10127,02-19-2025,Elena Clark,elena.clark2@example.net,555-292-1859,Noise Cancelling Headphones,Audio,2,199.0,Boston,MA
+ORD-10371,16-Jun-2025,SUSAN ANDERSON,SUSAN.ANDERSON75@EXAMPLE.NET ,555-640-6444,usb-c hUB,Accessories,,39.99, Denver	,CO
+ORD-10042,03-18-2025,Elena Garcia,elena.garcia34@example.net,5558099076,Laptop   Stand ,Accessories,7,,Miami,FL
+ORD-10236,21/05/2025,Linda Wilson,linda.wilson11example.net,+1-555-706-7228,Mechanical Keyboard,Accessories,3.0,,Phoenix,AZ
+ORD-10192,2025/07/21,Priya Anderson,  PRIYA.ANDERSON9@EXAMPLE.NET	,+1 555 626 6630,  Laptop   Pro   14	,Computers,2,1299.0,Philadelphia,PA
+ORD-10327,05-14-2025,Daniel Moore,daniel.moore85@example.net,5556623525,External SSD 1TB,Storage,1,119.99,Miami,FL
+ORD-10112,21/02/2025,Elena Nguyen,elena.nguyen92@example.org,+1-555-418-5957,Office Chair,Furniture,2,249.0,Chicago,IL
+ORD-10006,11-Jun-2025,Emma Thomas,emma.thomas57@example.net,555.957.6076,Laptop Stand,Accessories,2,34.5,Houston,tx
+ORD-10404,12/08/2025,Susan Nguyen,susan.nguyen82@example.org,+1 555 919 6204,USB-C Hub,ACCESSORIES,4,39.99,Seattle ,WA
+ord-10330   ,29/03/2025,,  JOHN.JOHNSON43@EXAMPLE.COM ,+1-555-499-3055,Mechanical Keyboard,Accessories,,89.99,Seattle,WA
+ORD-10393,16-Nov-2025,James Williams,james.williams91@@example.net,5554841005,BLUETOOTH SPEAKER,Audio,7,59.95,  New  York   ,NY
+ORD-10011,23/10/2025,Priya Anderson,priya.anderson9@example.net,5556266630,Noise Cancelling Headphones,Audio,1,$199.00,Philadelphia,PA
+ORD-10321,2025-07-12, NOAH PATEL	,noah.patel93@example.net,(555) 848-1188,Laptop Pro 14,Computers,1,1299.0,san diego,ca
+ORD-10303,"July 09, 2025",Ethan Taylor,  ETHAN.TAYLOR12@EXAMPLE.COM   ,(555) 356-4251,External SSD 1TB,Storage,1.0,119.99,Los Angeles,CA
+ORD-10356,07-20-2025,RICHARD MILLER   ,RICHARD.MILLER69@EXAMPLE.ORG ,+1-555-807-7999,27-inch 4K Monitor,Displays,1,349.0,chicago,IL
+,2025/11/25,Liam Miller,liam.miller52@example.com,5557358113,USB-C Hub,Accessories,3,$39.99,Chicago,IL
+ORD-10433,"February 23, 2025", pATRICIA   jACKSON   ,patricia.jackson32@example.com,(555) 323-7058,Laptop Stand,Accessories,3,34.5,Dallas,TX
+ORD-10013,2025/03/04, Richard Anderson ,richard.anderson86@example.org,5553919694,Webcam HD,Video,1,69.0,Denver,CO
+ORD-10094,16-Dec-2025,fatima davis,,555-879-3853,Bluetooth Speaker,Audio,1,59.95,  Seattle ,WA
+ORD-10047,"October 21, 2025",  Jessica  Taylor	,jessica.taylor79@example.com,555.795.3166,Mechanical Keyboard,Accessories,3,89.99,Dallas,tx
+ORD-10060,12-Nov-2025,Susan Khan   , SUSAN.KHAN64@EXAMPLE.ORG	,555-869-8256,Mechanical Keyboard,Accessories,4,89.99,Denver,CO
+  ord-10046   ,2025-08-11,Barbara Rodriguez,,+1-555-843-4500, Office  Chair	,Furniture,2,249.0,Los Angeles,CA
+ORD-10238,04-Oct-2025,joseph davis,joseph.davis4@example.net,555-768-5149,Bluetooth Speaker,aUDIO,4,59.95,Houston,TX
+ORD-10290,18-Apr-2025,Hiro Okafor, HIRO.OKAFOR35@EXAMPLE.NET   ,(555) 287-1534,Wireless Mouse,Accessories,8,24.99,Philadelphia,PA
+ORD-10045,04-06-2025,James Wilson,james.wilson34@@example.org,555.809.6887,bLUETOOTH sPEAKER,Audio,8,59.95,Phoenix,az
+ORD-10357,05/07/2025,Fatima Lopez,fatima.lopez94@,555-958-0255,Wireless Mouse,Accessories,2,24.99,San Diego,ca
+ORD-10445,07-Jan-2025,  Richard  Kim ,richard.kim90@example.org,+1 555 770 5062,  Office  Chair	,Furniture,1,249.0,Dallas,TX
+ORD-10291,,Sarah Thomas,sarah.thomas10@example.net,+1 555 493 4149,  27-inch 4K Monitor	,Displays,2,349.0,Phoenix,AZ
+ORD-10239,2025-10-03,Daniel Moore,daniel.moore85@example.net,555-662-3525,Wireless Mouse,Accessories,3,24.99,Miami,FL
+ORD-10175,24/09/2025,Jennifer Rossi,jennifer.rossi97@example.com,555-620-7974,Office Chair,Furniture,2,-249.0,Denver,co
+ORD-10061,21-Oct-2025,,emma.khan47@example.com,555-696-0453,  Standing Desk ,Furniture,1,499.0,Philadelphia ,PA
+ORD-10180,"June 25, 2025",James Nguyen,james.nguyen71@example.org,(555) 273-7893,Laptop Stand,Accessories,7,34.5,Denver,co
+ORD-10288,05/12/2025,Fatima Johnson,fatima.johnson4@example.com,+1-555-490-3402,Mechanical Keyboard,Accessories,8,89.99,  Houston	,tx
+ORD-10141,2025/02/23,William Silva,william.silva61@example.org,555.514.7994,USB-C Hub,Accessories,7,$39.99,Phoenix,AZ
+ORD-10160,05/02/2025,Barbara Silva,barbara.silva43@example.org,(555) 516-3555,Office Chair,Furniture,1,249.0,,CO
+ORD-10002,09-Jun-2025,Mei Okafor,mei.okafor72@example.org,+1-555-359-2974,Wireless Mouse,Accessories,7,24.99,Miami,FL
+ORD-10247,09-24-2025, OMAR  TAYLOR ,omar.taylor1@example.org,5557542890,Laptop Stand,Accessories,6,34.5,PHOENIX,AZ
+ORD-10432,17/09/2025,Mei Miller,mei.miller88@example.com,(555) 272-4590,Laptop Pro 14,COMPUTERS,3,1299.0,Denver,CO
+ORD-10383,13/01/2025,Mary Williams,mary.williams83@example.org,(555) 874-6014,Laptop Stand,Accessories,4,34.5,cHICAGO,IL
+ORD-10326,2025-09-14,DANIEL WILLIAMS,daniel.williams30@example.com,+1-555-566-3623,Noise Cancelling Headphones,Audio,3,199.0,San Diego,CA
+ORD-10458,"April 20, 2025",John Anderson,john.anderson53@example.org,555-881-6912,Laptop Pro 14,Computers,1,1299.0,Seattle,WA
+ORD-10210,2025/06/24,lINDA sILVA,linda.silva39@example.net,(555) 785-1696,Bluetooth Speaker,Audio,7,59.95,Phoenix,AZ
+ORD-10259,2025/05/23, Emma   Khan	,emma.khan47@example.com,555.696.0453,USB-C Hub,ACCESSORIES,6,39.99,Philadelphia,PA
+ORD-10353,2025-03-01,HIRO OKAFOR,  HIRO.OKAFOR68@EXAMPLE.COM	,555.643.8436,noise cancelling headphones,Audio,2,199.0,Miami,FL
+ORD-10102,"August 03, 2025",Daniel Moore, DANIEL.MOORE85@EXAMPLE.NET ,+1 555 662 3525,Standing Desk,Furniture,1,499.0, Miami   ,FL
+ORD-10312,"March 05, 2025", JENNIFER ANDERSON   ,,555.977.0838,Standing Desk,Furniture,2,499.0,Miami,FL
+ORD-10142,2025/12/31,Elena   Smith ,elena.smith15@example.com,555.350.0715,Bluetooth Speaker,Audio,4,59.95,Boston,MA
+ORD-10023,"October 28, 2025",William Silva,william.silva57@example.net,555-817-5395,27-inch 4K Monitor,Displays,3.0,349.0,Boston,MA
+ORD-10228,24/09/2025,,,5551415846,LAPTOP STAND,Accessories,6,34.5,SAN   DIEGO ,CA
+ORD-10089,"January 05, 2025",Michael Williams,michael.williams49@example.com,5556770619,Bluetooth Speaker,Audio,8,-59.95,Philadelphia,PA
+  ord-10043   ,"February 04, 2025",Thomas  Clark	,thomas.clark7@example.com,+1-555-810-6422,Bluetooth Speaker,Audio,1,59.95,Denver,CO
+ORD-10137,,Fatima Lee,  FATIMA.LEE52@EXAMPLE.ORG ,555.332.0821,external ssd 1tb,Storage,1,$119.99,Houston,tx
+ORD-10374,04-05-2025,Susan Nguyen,susan.nguyen35@example.net,555.219.7935,27-inch 4K Monitor,Displays,2,349.0,Denver,CO
+ORD-10076,2025-11-23,Michael Williams,michael.williams69@example.com,+1 555 544 9324,Wireless Mouse,Accessories,1,24.99,Seattle,WA
+ORD-10257,"December 20, 2025",Richard Miller,richard.miller69@example.org,,Noise Cancelling Headphones,Audio,2,199.0,chicago,IL
+ORD-10390,26-Mar-2025,sARAH oKAFOR,sarah.okafor67@example.org,,27-inch 4K Monitor,DISPLAYS,1,349.0,Denver,co
+ORD-10423,2025/03/04,Sarah Thomas,sarah.thomas10@example.net,5554934149,Office Chair,Furniture,2,249.0, Phoenix   ,az
+ORD-10099,2025-10-03,Sofia Nguyen,sofia.nguyen69@example.org,+1-555-293-5113,External SSD 1TB,Storage,3,119.99,New York,NY
+  ord-10034   ,12-Apr-2025,Elizabeth Rodriguez,elizabeth.rodriguez18@example.com,+1-555-540-8072,Noise Cancelling Headphones,Audio,1,199.0,Boston,MA
+ORD-10032,04/01/2025,Michael Nguyen,michael.nguyen56@example.org,5557897151,  Mechanical  Keyboard ,Accessories,8,89.99,San Diego,ca
+ORD-10343,"February 06, 2025",sARAH gARCIA,sarah.garcia90@example.com,+1-555-164-9691,Webcam HD,Video,6,69.0,SAN DIEGO,CA
+ORD-10342,2025/08/30,Liam Miller,,(555) 735-8113,USB-C Hub,Accessories,8,39.99,Chicago,IL
+ORD-10456,14-Feb-2025,James Nguyen,james.nguyen71@example.org,555-273-7893,Noise Cancelling Headphones,Audio,1,199.0,Denver,CO
+ORD-10214,2025-13-45,Fatima Hernandez,fatima.hernandez36@example.com,+1-555-664-7119,mechanical keyboard,Accessories,5,89.99,hOUSTON,TX
+ORD-10207,"October 21, 2025",rICHARD aNDERSON,richard.anderson86@example.org,5553919694, Office Chair ,Furniture,3,249.0,Denver,CO
+ORD-10341,16/02/2025,Ethan Okafor,ethan.okafor23@example.net,555-600-7072,USB-C Hub,Accessories,3,39.99,Los Angeles,CA
+ORD-10008,2025/10/13,John Okafor,john.okafor69@example.com,555.897.3915, Mechanical   Keyboard ,Accessories,7,$89.99,Chicago,IL
+ORD-10265,2025/09/09,Fatima Jones,fatima.jones6@example.org,5551669324,Standing Desk,Furniture,3,-499.0,pHILADELPHIA,PA
+ORD-10188,09-Oct-2025,Patricia Jackson,patricia.jackson32@example.com,555.323.7058,USB-C Hub,Accessories,7,39.99,Dallas,TX
+ORD-10370,"October 02, 2025", John   Patel , JOHN.PATEL9@EXAMPLE.NET   ,555.777.4229,USB-C Hub,Accessories,5,39.99,Houston,TX
+ORD-10301,08/12/2025,John Johnson,john.johnson43@example.com,555.499.3055,Noise Cancelling Headphones,Audio,3,$199.00,Seattle,WA
+ord-10464   ,12/01/2025,John Patel,john.patel9@example.net,555.777.4229,External SSD 1TB,Storage,-1,119.99,Houston,TX
+ORD-10087,"April 06, 2025",William Jackson,william.jackson94@example.com,5558755439,External SSD 1TB,Storage,2,119.99,Chicago,IL
+ ord-10364   ,2025/12/25,Thomas Clark,thomas.clark7@example.com,+1 555 810 6422,Bluetooth Speaker,Audio,5,59.95,Denver,CO
+ORD-10460,2025-11-04,Noah Patel,noah.patel93@,555.848.1188,Webcam HD,Video,7,free,San Diego,CA
+ORD-10163,22/05/2025,Elena Brown,elena.brown7@example.net,555.124.7595,Office Chair,Furniture,3,249.0,seattle,WA
+ORD-10461,21-Oct-2025, Aisha   Johnson	,,+1-555-943-6429,Laptop Stand,Accessories,3.0,N/A,Dallas,TX
+ORD-10435,"July 02, 2025",  DAVID   RODRIGUEZ , DAVID.RODRIGUEZ15@EXAMPLE.COM	,(555) 360-7983,Bluetooth Speaker,Audio,3,59.95,boston,ma
+ORD-10345,,Sarah Garcia,sarah.garcia90@example.com,+1 555 164 9691,Office Chair,Furniture,1,249.0,San Diego,CA
+  ord-10429   ,"February 19, 2025",Aisha Rossi,AISHA.ROSSI99@EXAMPLE.COM   ,+1-555-153-8552,External SSD 1TB,Storage,1,-119.99,houston,TX
+ORD-10171,04-06-2025,Lucas Johnson,lucas.johnson27@example.org,555.132.7691,Noise Cancelling Headphones,Audio,3,199.0,San Diego,CA
+ORD-10009,08-29-2025,Aisha Wilson,aisha.wilson90@example.org,+1-555-313-5534,Office Chair,Furniture,2,249.0,sEATTLE,wa
+ORD-10378,19/05/2025,aMARA tHOMAS,amara.thomas16@example.com,+1-555-207-4176,USB-C Hub,Accessories,1,39.99,Houston,tx
+ORD-10315,"April 25, 2025",Jessica Taylor,jessica.taylor79@example.com,+1-555-795-3166,Wireless Mouse,Accessories,1,24.99, Dallas ,TX
+ORD-10336,08-04-2025,EMMA KHAN,emma.khan47@example.com,555-696-0453,WIRELESS MOUSE,Accessories,1,24.99,Philadelphia,PA
+ORD-10100,10-Nov-2025,omar rodriguez,OMAR.RODRIGUEZ82@EXAMPLE.NET	,+1-555-468-4531,Webcam HD,Video,1,69.0,SEATTLE,WA
+ORD-10437,2025-11-09,Richard Kim,richard.kim9@example.com,5554823498,Office Chair,FURNITURE,3,249.0,Denver,CO
+ORD-10143,"January 07, 2025",lucas jackson,lucas.jackson96@example.net,(555) 470-0025,27-inch 4K Monitor,Displays,-1,$349.00,Seattle,WA
+ORD-10279,21/04/2025,eTHAN oKAFOR,ethan.okafor23@example.net,555-600-7072,Office Chair,Furniture,,$249.00,Los Angeles,CA
+ord-10440 ,23-Jul-2025,Aisha Wilson,aisha.wilson35@example.com,+1-555-627-9418,Office Chair,Furniture,2,249.0,Houston,TX
+ORD-10050,2025/09/15,Aisha Wilson,aisha.wilson35@example.com,555.627.9418,27-inch 4K Monitor,Displays,1,$349.00,Houston,TX
+ORD-10161,11-29-2025,Jessica Jones,jessica.jones84@example.net,555.278.8238,Standing Desk,Furniture,2,$499.00,New York,NY
