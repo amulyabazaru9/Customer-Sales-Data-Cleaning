@@ -309,6 +309,6 @@ python -m pytest -v
 
 ---
 
-**Author:** *Your Name* · [LinkedIn](#) · [Upwork](#) · [Fiverr](#)
+**Author:** *Amulya.B* · [LinkedIn](#) · [Upwork](#) · [Fiverr](#)
 
 *If this project is useful to you, consider giving it a ⭐ on GitHub.*
